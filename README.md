@@ -1,15 +1,15 @@
 # Restaurant Reviews App–Stage1
 Converted a static website to a mobile-ready, fully responsive web application.
 View the site here: https://karen91013.github.io/RestaurantReviewsAppStage1/
-
+Note: the site will not be fully accessible with the link above, follow the instructions below to see the full thing!
 
 # Instructions
 1) Clone or download the zip file. 
-2) Open the folder from where you saved it. Double click the index.html file, this will open the project locally on your computer. You will see the default feed list of items.
+2) Open the folder from where you saved it. Double click the index.html file, this will open the project locally on your computer.
 3) Start up a HTTP server to serve the site files on your local computer. Use Python as it's the easiest way to do so.
 Check the version of Python you have by running "python -V" in your terminal. If you have Python 2.x, use the command "python -m SimpleHTTPServer 8000" (or another, if port 8000 is already in use.) For Python 3.x, you can use the command "python3 -m http.server 8000". If you don't have Python installed, navigate to Python's website to download and install the software.
-4) With your server now running, visit the site: http://localhost:8000, and look around for a bit to see what the current experience looks like.
-5) Get going and make the site responsive, accessible, easy to use and ready for offline use! Remember to make it mobile-friendly as well!
+4) With your server now running, visit the site: http://localhost:8000
+5) Voila! you now have access to a site that is fully responsive, acccessible, easy to use and ready for offline use!
 
 # Dependecies
 - Leaflet, a JavaScript library for interactive maps.
