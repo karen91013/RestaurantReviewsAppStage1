@@ -12,7 +12,7 @@ Check the version of Python you have by running "python -V" in your terminal. If
 5) Voila! you now have access to a site that is fully responsive, acccessible, easy to use and ready for offline use!
 
 # Dependecies
-- Leaflet, a JavaScript library for interactive maps.
-- Mapbox API, an open source mapping platform for custom designed map. To use this API, replace the text <your MAPBOX API KEY HERE>inside of main.js with your key. I have removed my personal API key.
+- [Leaflet](https://leafletjs.com/), a JavaScript library for interactive maps.
+- [Mapbox API] (https://www.mapbox.com/), an open source mapping platform for custom designed map. To use this API, replace the text <your MAPBOX API KEY HERE>inside of main.js with your key. I have removed my personal API key.
 - Various Udacity Grow with Google Scholars Slack channels helped me in understanding the service worker, as well as troubleshooting my errors all the way through the completion of this project. 
 - Additionally, reading through Matthew Crawford's article on accessibility and following along really helped: https://matthewcranford.com/restaurant-reviews-app-walkthrough-part-3-accessibility/
