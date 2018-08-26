@@ -1,6 +1,6 @@
 # Restaurant Reviews App–Stage1
-Converted a static website to a mobile-ready, fully responsive web application.
-View the site here: https://karen91013.github.io/RestaurantReviewsAppStage1/
+Converted a static website to a mobile-ready, fully responsive web application. <br/>
+View the site here: https://karen91013.github.io/RestaurantReviewsAppStage1/ <br/>
 Note: the site will not be fully accessible with the link above, follow the instructions below to see the full thing!
 
 # Instructions
